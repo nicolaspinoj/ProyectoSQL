@@ -1,0 +1,41 @@
+﻿id_modelo,marca,modelo,cilindrada,year,valor_lista,tipo_combustible,tipo_auto
+1,khal,i1x,2400,2019,7200000,gas,sedan
+2,khal,i3x,1800,2018,21900000,diesel,pickup
+3,khal,i5x,2400,2018,15900000,gas,sedan
+4,khal,i7x,2400,2021,9900000,gas,pickup
+5,khal,i9x,2400,2021,14500000,diesel,suv
+6,khal,i11x,1600,2019,11940000,bencina,station wagon
+7,khal,i13x,1800,2018,9900000,bencina,station wagon
+8,khal,i15x,1600,2021,7390000,diesel,suv
+9,khal,i17x,2400,2020,11940000,diesel,suv
+10,khal,i19x,1600,2021,6500000,bencina,sedan
+11,khal,i21x,2000,2019,11940000,diesel,suv
+12,khal,i23x,1800,2018,21900000,diesel,station wagon
+13,khal,i25x,1600,2019,6500000,diesel,station wagon
+14,khal,i27x,1600,2021,18000000,gas,station wagon
+15,khal,i29x,1800,2020,14500000,diesel,station wagon
+16,khal,z111,1800,2020,7200000,diesel,pickup
+17,khal,z113,1600,2018,14000000,gas,hatchback
+18,khal,z115,1800,2019,9900000,diesel,pickup
+19,khal,z117,2400,2019,9900000,bencina,sedan
+20,khal,z119,1800,2021,21940000,gas,station wagon
+21,bangai,1,1800,2019,9900000,bencina,suv
+22,bangai,3,1800,2020,11940000,bencina,station wagon
+23,bangai,5,1600,2021,14000000,gas,sedan
+24,bangai,7,1800,2019,6500000,bencina,station wagon
+25,bangai,9,2400,2021,11940000,diesel,suv
+26,bangai,B01,1800,2018,14500000,bencina,station wagon
+27,bangai,B03,2400,2018,6500000,bencina,hatchback
+28,bangai,B05,1800,2020,14500000,gas,pickup
+29,bangai,B07,2400,2021,11940000,gas,pickup
+30,bangai,B09,1600,2018,18950000,gas,pickup
+31,bangai,pwq1,2000,2018,18950000,gas,station wagon
+32,bangai,pwq3,2000,2021,7200000,bencina,pickup
+33,bangai,pwq5,1800,2020,18000000,gas,station wagon
+34,bangai,pwq7,2400,2018,14500000,bencina,station wagon
+35,bangai,pwq9,2000,2020,5900000,diesel,pickup
+36,bangai,HiH1,2000,2022,8950000,diesel,station wagon
+37,bangai,HiH3,1600,2020,28950000,gas,sedan
+38,bangai,HiH5,2000,2019,8900000,diesel,suv
+39,bangai,HiH7,2400,2019,18000000,gas,hatchback
+40,bangai,HiH9,2000,2019,8950000,diesel,sedan

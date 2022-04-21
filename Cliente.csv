@@ -1,0 +1,101 @@
+﻿id_cliente,tipo_cliente,nombre_apellido,sexo,edad,comuna,email,telefono,rut_sin_dv
+1,normal,Germaine Lott,M,48,Antofagasta,curabitur.consequat@protonmail.edu,+56 9 5578 8516,16648113
+2,normal,Theodore Palmer,M,34,Santiago,ultrices.posuere@outlook.edu,+56 9 5283 4929,22224885
+3,premium,Zelda Morton,H,61,Santiago,gravida@yahoo.edu,+56 9 9495 3742,32605821
+4,premium,Charity Boyle,M,61,Santiago,non.dui.nec@icloud.edu,+56 9 5586 7474,38199788
+5,normal,Patricia Rivas,M,66,Concepción,non.luctus.sit@protonmail.edu,+56 9 1818 7635,13995588
+6,normal,Elliott Landry,H,67,Antofagasta,massa.quisque.porttitor@google.org,+56 9 4580 1598,50563737
+7,normal,Shaeleigh Reese,M,43,Santiago,consectetuer@hotmail.ca,+56 9 5751 8868,7779771
+8,normal,Jonas Colon,M,47,Antofagasta,id@icloud.net,+56 9 4779 3521,9713170
+9,premium,Cathleen Rowe,H,42,Concepción,cum@yahoo.net,+56 9 6285 8753,3896571
+10,premium,Brittany Knowles,H,23,Puerto Montt,metus.facilisis.lorem@aol.org,+56 9 7287 9676,12798380
+11,normal,Zeus Gaines,M,63,Puerto Montt,dui.in@protonmail.edu,+56 9 7391 1362,23192885
+12,normal,Hedda Knowles,H,46,Concepción,enim.nisl.elementum@google.ca,+56 9 3550 7945,47477842
+13,normal,Beverly Miles,H,25,Concepción,lorem@yahoo.net,+56 9 6240 4353,30152500
+14,normal,Burke Powell,H,49,Santiago,sem.ut@yahoo.org,+56 9 0111 3645,44546812
+15,premium,Zachery Foster,H,45,Concepción,est.vitae@hotmail.ca,+56 9 0095 1032,10702683
+16,premium,Pearl Petty,M,44,Concepción,libero.mauris@google.org,+56 9 1878 8718,36155745
+17,normal,Keegan Rhodes,M,21,Antofagasta,dapibus.ligula@google.edu,+56 9 9262 7417,47439347
+18,normal,Quamar Collins,M,61,Antofagasta,at.velit@yahoo.org,+56 9 1161 0259,15836920
+19,normal,Leo Guerra,M,38,Santiago,neque@hotmail.com,+56 9 2991 2925,49673896
+20,normal,Colleen Bolton,M,64,Santiago,amet.metus@yahoo.couk,+56 9 5288 8871,13226496
+21,premium,Hector Bell,M,60,Concepción,auctor@icloud.couk,+56 9 6741 8429,36784890
+22,premium,Christine Holmes,H,48,Santiago,a.scelerisque@aol.couk,+56 9 4812 0102,49998108
+23,normal,Abigail Pratt,H,74,Puerto Montt,velit.justo@icloud.org,+56 9 5870 2354,2580337
+24,normal,Blake Gay,H,65,Santiago,risus.quis@yahoo.couk,+56 9 2656 3799,25130532
+25,normal,Burke Simmons,M,61,Concepción,ante.iaculis.nec@aol.net,+56 9 4961 0565,48871398
+26,normal,Odessa Butler,H,69,Puerto Montt,massa@outlook.ca,+56 9 1814 5286,39422750
+27,premium,Hope Sullivan,H,47,Santiago,turpis.aliquam.adipiscing@protonmail.edu,+56 9 6648 6528,21172489
+28,premium,Calista Swanson,H,31,Antofagasta,placerat.velit.quisque@aol.edu,+56 9 8872 2248,36464596
+29,normal,Quyn Price,M,28,Antofagasta,enim.nec.tempus@yahoo.couk,+56 9 7883 0261,3927769
+30,normal,Slade Norton,M,59,Concepción,adipiscing.non@outlook.ca,+56 9 1618 4813,40659587
+31,normal,Dillon Payne,H,48,Antofagasta,volutpat.nulla.facilisis@google.com,+56 9 1254 3308,3492157
+32,normal,Asher Alexander,M,50,Puerto Montt,sollicitudin.a@hotmail.com,+56 9 2668 5005,11332665
+33,premium,Quinn Bruce,H,60,Puerto Montt,fermentum@icloud.couk,+56 9 8396 2364,38397675
+34,premium,Brooke Bowen,M,72,Concepción,ipsum.dolor@outlook.edu,+56 9 8787 4811,46904660
+35,normal,Ryan Boyd,M,45,Puerto Montt,sit.amet.consectetuer@aol.net,+56 9 7343 3558,12643252
+36,normal,Lucius Velez,H,41,Puerto Montt,turpis@yahoo.edu,+56 9 6457 4366,33419628
+37,normal,Deborah Ramos,H,37,Antofagasta,malesuada.fringilla@yahoo.edu,+56 9 1798 1685,36204782
+38,normal,Lunea O'brien,M,57,Antofagasta,egestas.ligula@protonmail.org,+56 9 5835 8321,41998192
+39,premium,Adena Sandoval,H,71,Puerto Montt,euismod@protonmail.ca,+56 9 6736 4258,482339
+40,premium,Destiny Buckley,M,56,Concepción,est@yahoo.ca,+56 9 4039 1139,13124161
+41,normal,Kane Rivera,H,59,Concepción,auctor.mauris@icloud.couk,+56 9 1426 1141,39318932
+42,normal,John Gross,H,75,Puerto Montt,feugiat@protonmail.couk,+56 9 4108 3819,369588
+43,normal,Kasimir Blair,H,32,Puerto Montt,magna.praesent@icloud.edu,+56 9 8856 0835,42658603
+44,normal,Blaze Marsh,M,69,Santiago,cursus.diam@outlook.com,+56 9 9486 8529,29155824
+45,premium,Marny Hewitt,H,52,Antofagasta,in.scelerisque@yahoo.couk,+56 9 5979 7528,4187287
+46,premium,Hop Hunter,H,26,Santiago,nibh.dolor@hotmail.couk,+56 9 5046 6612,39800877
+47,normal,Alma Floyd,M,48,Santiago,nulla.eu@hotmail.org,+56 9 2971 5203,34929852
+48,normal,Lance Atkins,H,28,Santiago,orci.quis@aol.ca,+56 9 5857 4477,27789721
+49,normal,Brady Ryan,M,67,Antofagasta,massa@icloud.com,+56 9 1927 2361,28524671
+50,normal,Clarke Hickman,H,72,Santiago,quisque.purus@hotmail.org,+56 9 7650 3486,20569255
+51,normal,Jin Goodwin,H,70,Puerto Montt,dui.suspendisse@protonmail.edu,+56 9 2663 4525,44623662
+52,normal,Brynne Goodman,H,52,Antofagasta,sociis.natoque@yahoo.com,+56 9 1783 3585,11291214
+53,normal,Xander Pratt,H,44,Antofagasta,ornare.libero.at@hotmail.net,+56 9 9207 7125,5380718
+54,normal,Tatiana Berg,M,34,Santiago,praesent.luctus@yahoo.org,+56 9 3740 4144,20892188
+55,normal,Ciaran Peck,H,23,Antofagasta,nam.nulla.magna@yahoo.com,+56 9 6643 7988,28388265
+56,normal,Hamish Pacheco,H,43,Concepción,molestie.pharetra@icloud.couk,+56 9 7641 8623,22311229
+57,normal,Aspen Hester,M,47,Santiago,dapibus.ligula@google.net,+56 9 6183 7656,8607845
+58,normal,Tana Sloan,H,25,Santiago,semper.cursus@protonmail.couk,+56 9 4136 9342,50956159
+59,normal,MacKensie Kane,H,73,Antofagasta,consectetuer@icloud.org,+56 9 8884 6424,37707481
+60,normal,Hedy Meyer,H,45,Antofagasta,sapien.cras.dolor@protonmail.ca,+56 9 3884 7187,44862396
+61,normal,Duncan Goff,H,72,Santiago,feugiat@protonmail.org,+56 9 3689 0606,29791651
+62,normal,Aurora Stanley,H,37,Concepción,at@yahoo.edu,+56 9 8579 6792,4340658
+63,normal,Marvin Hardy,H,69,Concepción,metus.eu@yahoo.org,+56 9 8131 1347,18752123
+64,normal,Gwendolyn Mooney,M,25,Concepción,penatibus.et.magnis@hotmail.com,+56 9 3887 6558,43965923
+65,normal,Colleen Berger,H,36,Antofagasta,dui.fusce@outlook.edu,+56 9 5742 4522,23328496
+66,normal,Trevor Byrd,M,57,Concepción,fusce.diam@outlook.edu,+56 9 5432 3178,33587504
+67,normal,Hunter Dominguez,M,42,Concepción,nam.tempor@outlook.net,+56 9 4448 1394,11817607
+68,normal,Lillian Meadows,H,40,Concepción,purus.accumsan@hotmail.ca,+56 9 6697 4344,38942531
+69,normal,Idona Avila,M,53,Puerto Montt,euismod.urna.nullam@hotmail.edu,+56 9 4544 7246,6562201
+70,normal,Kasimir Marquez,M,35,Concepción,fringilla.porttitor.vulputate@icloud.ca,+56 9 4959 6754,29472579
+71,normal,Destiny Abbott,H,44,Santiago,et@outlook.couk,+56 9 4157 3028,3358590
+72,normal,Blake Welch,H,33,Antofagasta,ante.iaculis.nec@yahoo.com,+56 9 5448 3257,32650260
+73,normal,Rashad Holden,H,58,Puerto Montt,vestibulum.neque.sed@protonmail.edu,+56 9 7486 3385,37941560
+74,normal,Xander Best,H,46,Santiago,congue.in@protonmail.net,+56 9 2138 6742,31711948
+75,normal,Natalie Oliver,H,18,Concepción,lorem@icloud.ca,+56 9 7514 2765,12535443
+76,normal,Serena Levine,M,70,Concepción,dictum.eu.eleifend@protonmail.ca,+56 9 1107 7085,37213893
+77,normal,Charlotte Irwin,M,69,Santiago,curabitur@hotmail.ca,+56 9 9633 9857,269173
+78,normal,Beau Mccarty,M,18,Santiago,nonummy.ut@google.org,+56 9 7808 6098,155944
+79,normal,Gavin Hoover,M,55,Santiago,orci.ut@google.org,+56 9 4349 0232,17567920
+80,normal,Hasad Wright,M,47,Concepción,non.cursus@aol.net,+56 9 3174 2217,43908619
+81,normal,Kim Walton,H,73,Santiago,mollis.duis@protonmail.net,+56 9 2535 0736,19954655
+82,normal,Avram Webster,M,63,Santiago,quam.quis@aol.ca,+56 9 1290 2332,44454530
+83,normal,Simon Madden,M,73,Concepción,velit.sed@protonmail.net,+56 9 4433 5398,36759798
+84,normal,Elliott Guerrero,H,37,Antofagasta,cubilia.curae.phasellus@icloud.net,+56 9 5304 3431,6874522
+85,normal,Carla Mercer,H,25,Concepción,ut.erat@google.net,+56 9 3427 6211,36475580
+86,normal,Sean Cameron,M,25,Antofagasta,sem.nulla@aol.ca,+56 9 7151 1538,4555639
+87,normal,Ursula Hart,M,74,Concepción,iaculis.enim.sit@protonmail.couk,+56 9 8154 0987,6586356
+88,normal,Amir Aguilar,M,65,Puerto Montt,ut.lacus@hotmail.couk,+56 9 4655 5500,50169943
+89,normal,Mary Gregory,H,32,Puerto Montt,nonummy@protonmail.org,+56 9 3332 3338,35719740
+90,normal,Gisela Compton,M,51,Santiago,purus.maecenas@yahoo.com,+56 9 1635 6805,7735509
+91,normal,Hadley Joyner,H,30,Puerto Montt,ornare.libero@aol.edu,+56 9 6443 8918,49826617
+92,normal,George Burns,M,65,Puerto Montt,nonummy.ac@protonmail.com,+56 9 3573 6305,38652629
+93,premium,Elton Mitchell,H,55,Santiago,a.malesuada@outlook.com,+56 9 3487 1503,19200276
+94,premium,Ronan Kane,H,63,Antofagasta,non@icloud.ca,+56 9 7613 0157,50881584
+95,premium,Kellie Cochran,H,37,Puerto Montt,consectetuer.euismod@yahoo.ca,+56 9 1507 6033,42572598
+96,premium,Yardley Bernard,M,36,Puerto Montt,mi.eleifend@protonmail.couk,+56 9 1337 7087,25731652
+97,premium,Farrah French,M,74,Concepción,vulputate@protonmail.couk,+56 9 2246 9522,49706525
+98,normal,Hedwig Mays,H,34,Santiago,lectus.cum@icloud.org,+56 9 0038 4417,34806108
+99,normal,Deacon Cash,H,30,Antofagasta,libero@protonmail.com,+56 9 2224 3274,41169214
+100,normal,Tyler Savage,H,54,Puerto Montt,vivamus@hotmail.net,+56 9 1486 3837,24352150

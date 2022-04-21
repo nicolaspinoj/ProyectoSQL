@@ -1,0 +1,111 @@
+﻿id_empleado,nombre_apellido,sexo,reporta_a,cargo,departamento,rut_sin_dv,sucursal,sueldo_base,bono_ticket,bono_venta
+1,Alma Gibson,H,jefe taller,mecanico reparacion,taller,3077359,santiago,582784,5000,0
+2,Anastasia Cash,M,jefe taller,mecanico reparacion,taller,30158314,santiago,507554,5000,0
+3,Lawrence Rich,M,jefe taller,mecanico mantencion,taller,21506583,iquique,689071,5000,0
+4,Wallace Rowland,H,jefe taller,mecanico reparacion,taller,20879933,iquique,525465,5000,0
+5,Octavia Becker,H,jefe taller,mecanico mantencion,taller,49557875,santiago,583053,5000,0
+6,Kylan Kirby,H,jefe taller,mecanico mantencion,taller,18622508,iquique,920341,5000,0
+7,Lavinia Riggs,M,jefe taller,mecanico mantencion,taller,37763346,puerto montt,694388,5000,0
+8,Katell Sims,M,jefe taller,mecanico mantencion,taller,31551384,puerto montt,746932,5000,0
+9,Leila Ellison,H,jefe taller,mecanico reparacion,taller,15992378,iquique,897966,5000,0
+10,Dylan Franklin,H,jefe taller,mecanico mantencion,taller,47777468,puerto montt,1014722,5000,0
+11,Rashad Macias,M,jefe taller,mecanico mantencion,taller,41653346,santiago,831556,5000,0
+12,Ocean Moss,M,jefe taller,mecanico mantencion,taller,688740,santiago,706779,5000,0
+13,Barbara Mills,M,jefe taller,mecanico mantencion,taller,786223,puerto montt,608671,5000,0
+14,Susan Bryant,M,jefe taller,mecanico mantencion,taller,6807119,santiago,638367,5000,0
+15,Beau Williamson,H,jefe taller,mecanico reparacion,taller,20951412,iquique,808073,5000,0
+16,Hilel Riddle,M,jefe taller,mecanico reparacion,taller,44863105,puerto montt,893164,5000,0
+17,Elijah Beck,H,jefe taller,mecanico reparacion,taller,25853443,iquique,1041485,5000,0
+18,Tanek Singleton,M,jefe taller,mecanico mantencion,taller,49473285,santiago,593190,5000,0
+19,Karleigh Vincent,H,jefe taller,mecanico reparacion,taller,22589212,concepcion,769050,5000,0
+20,Clementine Gutierrez,H,jefe taller,mecanico reparacion,taller,7381971,concepcion,1288612,5000,0
+21,Rogan Rosales,M,jefe taller,mecanico reparacion,taller,38859481,puerto montt,722443,5000,0
+22,Alyssa Davis,M,jefe taller,mecanico mantencion,taller,46319410,puerto montt,607680,5000,0
+23,Kathleen Jones,H,jefe taller,mecanico reparacion,taller,34418739,santiago,765375,5000,0
+24,Jocelyn Gillespie,H,jefe taller,mecanico mantencion,taller,36267731,concepcion,730113,5000,0
+25,Cynthia Leon,M,jefe taller,mecanico mantencion,taller,19229,iquique,867508,5000,0
+26,Hadassah Garrett,H,jefe taller,mecanico reparacion,taller,21607561,concepcion,892523,5000,0
+27,Ifeoma Giles,M,jefe taller,mecanico mantencion,taller,45168729,concepcion,504237,5000,0
+28,Juliet Massey,M,jefe taller,mecanico reparacion,taller,13258630,iquique,1604379,5000,0
+29,Scott Singleton,M,jefe taller,mecanico reparacion,taller,30258314,iquique,757602,5000,0
+30,Callie Patterson,M,jefe taller,mecanico reparacion,taller,6964865,concepcion,898955,5000,0
+31,Karleigh Floyd,M,jefe taller,mecanico mantencion,taller,43611521,concepcion,673972,5000,0
+32,Anne Hays,M,jefe taller,mecanico mantencion,taller,50446332,santiago,688289,5000,0
+33,Emery Rosa,M,jefe taller,mecanico reparacion,taller,41635454,concepcion,524037,5000,0
+34,Nadine Wallace,M,jefe taller,mecanico mantencion,taller,24260422,puerto montt,763452,5000,0
+35,Branden Harris,H,jefe taller,mecanico reparacion,taller,26249246,puerto montt,585142,5000,0
+36,Haviva Horne,H,jefe taller,mecanico reparacion,taller,26421681,concepcion,793337,5000,0
+37,Ian Brady,M,jefe taller,mecanico mantencion,taller,3975888,puerto montt,654839,5000,0
+38,Zahir Gutierrez,H,jefe taller,mecanico mantencion,taller,8780703,puerto montt,684619,5000,0
+39,Hayes Perez,M,jefe taller,mecanico reparacion,taller,19917257,concepcion,1516988,5000,0
+40,Deirdre Parsons,M,jefe taller,mecanico mantencion,taller,40175974,iquique,512726,5000,0
+41,Aaron Herrera,M,jefe taller,mecanico reparacion,taller,39684943,santiago,836046,5000,0
+42,Tanisha Calderon,H,jefe taller,mecanico mantencion,taller,14350723,iquique,586044,5000,0
+43,Erica Hughes,H,jefe taller,mecanico reparacion,taller,27519692,iquique,649385,5000,0
+44,Vladimir Hodge,H,jefe taller,mecanico mantencion,taller,25632468,concepcion,772127,5000,0
+45,Risa Vance,H,jefe taller,mecanico mantencion,taller,5661925,iquique,867523,5000,0
+46,Myles Fernandez,M,jefe taller,mecanico mantencion,taller,15255906,iquique,1668105,5000,0
+47,Gillian Rice,M,jefe taller,mecanico mantencion,taller,38938681,puerto montt,736520,5000,0
+48,Lydia Benson,H,jefe taller,mecanico mantencion,taller,36332715,concepcion,582837,5000,0
+49,Lynn Brown,H,jefe taller,mecanico reparacion,taller,9591258,iquique,1509215,5000,0
+50,Theodore Gonzales,H,jefe taller,mecanico mantencion,taller,9205442,puerto montt,642234,5000,0
+51,Tanner Burch,H,gerente ventas,vendedor,ventas,35276347,iquique,428560,0,25000
+52,Erica Lowe,M,gerente ventas,vendedor,ventas,2379921,puerto montt,483643,0,25000
+53,Kasper Riggs,H,gerente ventas,vendedor,ventas,48642131,puerto montt,618970,0,25000
+54,Macey Vega,H,gerente ventas,vendedor,ventas,46606392,iquique,448147,0,25000
+55,Xandra Buckley,M,gerente ventas,vendedor,ventas,11162190,concepcion,645336,0,25000
+56,Hayden Bernard,H,gerente ventas,vendedor,ventas,14429408,concepcion,528703,0,25000
+57,Logan Holland,M,gerente ventas,vendedor,ventas,42950970,iquique,664026,0,25000
+58,Jorden Galloway,M,gerente ventas,vendedor,ventas,14869507,santiago,529973,0,25000
+59,Dolan Maldonado,M,gerente ventas,vendedor,ventas,22583973,puerto montt,691547,0,25000
+60,Katell William,H,gerente ventas,vendedor,ventas,42436444,santiago,543200,0,25000
+61,Brody Guerrero,M,gerente ventas,vendedor,ventas,7167522,concepcion,666831,0,25000
+62,Zelda Briggs,H,gerente ventas,vendedor,ventas,330969,iquique,404804,0,25000
+63,Tallulah Blackburn,M,gerente ventas,vendedor,ventas,21442753,concepcion,601840,0,25000
+64,Kerry Combs,M,gerente ventas,vendedor,ventas,22593180,iquique,528061,0,25000
+65,Lila Craig,H,gerente ventas,vendedor,ventas,16285497,iquique,468099,0,25000
+66,Kirby Brewer,M,gerente ventas,vendedor,ventas,40185242,santiago,492379,0,25000
+67,Linda Harrison,H,gerente ventas,vendedor,ventas,42142400,iquique,606904,0,25000
+68,Raven Wilkins,M,gerente ventas,vendedor,ventas,30266511,concepcion,560786,0,25000
+69,Hillary Head,H,gerente ventas,vendedor,ventas,3186602,santiago,552366,0,25000
+70,Yoshi Cochran,M,gerente ventas,vendedor,ventas,3972091,puerto montt,504248,0,25000
+71,Hayden Valenzuela,H,gerente general,contable,administracion,4540451,concepcion,935081,0,0
+72,Basil Carrillo,M,gerente general,contable,administracion,30519641,puerto montt,783846,0,0
+73,Yvonne Leon,M,gerente general,administrativo,administracion,31162863,santiago,750223,0,0
+74,Nora Richardson,H,gerente general,contable,administracion,22206404,iquique,709823,0,0
+75,Audrey Valentine,H,gerente general,contable,administracion,16640832,santiago,773499,0,0
+76,Thomas Estrada,H,gerente general,administrativo,administracion,27572395,puerto montt,725177,0,0
+77,Raphael Kirk,M,gerente general,administrativo,administracion,50743452,santiago,940192,0,0
+78,Dai Larson,M,gerente general,contable,administracion,15298767,iquique,744539,0,0
+79,Cruz Phillips,H,gerente general,administrativo,administracion,35438272,concepcion,775590,0,0
+80,Erin Scott,M,gerente general,administrativo,administracion,37212190,iquique,913848,0,0
+81,Aline Maynard,H,gerente general,contable,administracion,41490200,puerto montt,771413,0,0
+82,Lysandra Barron,M,gerente general,administrativo,administracion,25969271,santiago,804852,0,0
+83,Ross Bowen,H,gerente general,contable,administracion,48875752,concepcion,938612,0,0
+84,Camilla Wyatt,H,gerente general,contable,administracion,10494800,iquique,691656,0,0
+85,Cruz Valencia,H,gerente general,contable,administracion,46650361,iquique,706137,0,0
+86,Alexander Solomon,M,gerente general,contable,administracion,10703872,iquique,850680,0,0
+87,Colin Knapp,M,gerente general,contable,administracion,8782793,iquique,708647,0,0
+88,Lillian Baldwin,M,gerente general,administrativo,administracion,1811597,concepcion,707436,0,0
+89,Eaton Cannon,M,gerente general,administrativo,administracion,23486837,santiago,853457,0,0
+90,Merritt Bass,M,gerente general,contable,administracion,45775415,concepcion,865188,0,0
+91,Burke Hammond,H,gerente general,contable,administracion,24848576,santiago,738177,0,0
+92,Tobias Rocha,H,gerente general,administrativo,administracion,2151783,santiago,776643,0,0
+93,Alfreda Horton,H,gerente general,contable,administracion,15136444,iquique,659306,0,0
+94,Murphy Powell,H,gerente general,contable,administracion,50141400,puerto montt,919375,0,0
+95,Brendan Mathews,M,gerente general,contable,administracion,40277776,puerto montt,899194,0,0
+96,Sasha Higgins,H,gerente general,administrativo,administracion,34603609,iquique,876287,0,0
+97,Wade Fuentes,M,gerente general,administrativo,administracion,10351373,concepcion,814165,0,0
+98,Hiroko Higgins,M,gerente general,contable,administracion,11383260,concepcion,846655,0,0
+99,Quinn Kent,H,gerente general,administrativo,administracion,24883864,puerto montt,913758,0,0
+100,Plato Guzman,H,gerente general,administrativo,administracion,9525537,santiago,842421,0,0
+101,Clio Nixon,M,gerente general,administrativo,administracion,26399821,santiago,735247,0,0
+102,Raja Short,H,gerente general,administrativo,administracion,46673789,santiago,873326,0,0
+103,Jin Stafford,H,gerente general,administrativo,administracion,3256914,santiago,923558,0,0
+104,Velma Eaton,H,gerente general,administrativo,administracion,7837232,puerto montt,673804,0,0
+105,Driscoll Reese,H,gerente general,administrativo,administracion,24492944,iquique,927435,0,0
+106,Winter Oneil,H,gerente general,administrativo,administracion,47744831,iquique,833809,0,0
+107,Lewis Wheeler,H,gerente general,administrativo,administracion,33897574,concepcion,855909,0,0
+108,Hayley Strong,H,gerente general,administrativo,administracion,10936319,puerto montt,652590,0,0
+109,Mohammad Santiago,H,gerente general,administrativo,administracion,45289612,santiago,719021,0,0
+110,Octavia Barker,H,gerente general,contable,administracion,46480104,iquique,798660,0,0
